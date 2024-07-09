@@ -77,12 +77,12 @@ async def _(c, cq):
     kbt = ikb(
         [
             [
-                ("Support 1", "https://t.me/kynansupport", "url"),
-                ("Support 2", "https://t.me/gokilsupport", "url"),
+                ("Support 1", "https://t.me/musik_supportdan", "url"),
+                ("Support 2", "https://t.me/Disney_storeDan", "url"),
             ],
             [
-                ("Channel 1", "https://t.me/kontenfilm", "url"),
-                ("Channel 2", "https://t.me/SquirtInYourPussy", "url"),
+                ("Channel 1", "https://t.me/Disney_storeDan", "url"),
+                ("Channel 2", "https://t.me/Disney_storeDan", "url"),
             ],
             [("Stats", "stats_mix")],
         ]
