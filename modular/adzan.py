@@ -9,7 +9,7 @@ __help__ = get_cgr("help_ajan")
 
 
 @ky.ubot("adzan", sudo=True)
-async def adzan_handler(c: nlx, m):
+async def _(c: nlx, m):
     em = Emojik()
     em.initialize()
     lok = c.get_text(m)
