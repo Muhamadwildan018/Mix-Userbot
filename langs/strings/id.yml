@@ -5,10 +5,10 @@ authors:
   - Keenan
   - Lucifer
   - Lumiere
-
+  - Wildan 
 
 cmds: "**Bantuan Perintah**"
-err: "{} **Error:** {} \n\n**Silahkan laporkan ke @KynanSupport**"
+err: "{} **Error:** {} \n\n**Silahkan laporkan ke @Disnsy_storeDan**"
 err_1: "**Error:** {}"
 proses: "{} **Sedang Diproses...**"
 proses_1: "**Sedang Diproses...**"
@@ -19,7 +19,7 @@ ttup: "Tutup"
 reboot: "{} **Reboot telah berhasil dimulai! Tunggu 1 - 2 menit hingga bot dimulai ulang.**"
 reboot_1: "Reboot telah berhasil dimulai! Tunggu 1 - 2 menit hingga bot dimulai ulang."
 supot: "**Jika anda butuhkan bantuan silahkan datang ke Grup Support Dibawah!!**\n\n**Atau kamu bisa melihat update di Channel Kami..**"
-menten: "{} **Mohon maaf, fitur ini sedang dalam masa perbaikan. Silahkan coba beberapa saat lagi.\n\natau anda bisa menanyakannya ke [sini](https://t.me/kontenfilm) atau ke [sini](https://t.me/GokilSupport)**."
+menten: "{} **Mohon maaf, fitur ini sedang dalam masa perbaikan. Silahkan coba beberapa saat lagi.\n\natau anda bisa menanyakannya ke [sini](https://t.me/mhmdwldnnnn) atau ke [sini](https://t.me/Disney_storeDan)**."
 
 # proxy
 prox_1: "**➣ `{}`**"
@@ -242,12 +242,12 @@ gcs_16: "{} **Hasil Broadcast Pengguna :\n{} Berhasil di `{}` Grup.\n{} Gagal di
 # alive 
 alv_1: "**Author**"
 alv_2: "**Connoisseur**"
-alv_3: "**Mix-Userbot**\n    **status:** {}\n      **dc_id:** {}\n      **ping_dc:** {} ms\n      **antipm:** {}\n      **pengguna:** {}\n      **bot**: {}\n      **grup:** {}\n      **durasi_bot:** {}"
+alv_3: "**Dan-Userbot**\n    **status:** {}\n      **dc_id:** {}\n      **ping_dc:** {} ms\n      **antipm:** {}\n      **pengguna:** {}\n      **bot**: {}\n      **grup:** {}\n      **durasi_bot:** {}"
 alv_4: "Support"
 
 # global
 glbl_2: "{} **Pengguna tidak ditemukan.**"
-glbl_3: "{} **Dia adalah Developer Mix-Userbot.**"
+glbl_3: "{} **Dia adalah Developer Dan-Userbot.**"
 glbl_4: "{} **Silahkan berikan alasan untuk diGban!**"
 glbl_5: "{} **Pengguna sudah digban.**"
 glbl_6: "{} **Warning Global Banned\n\n{} Berhasil: `{}` Chat\n{} Gagal: `{}` Chat\n{} User: `{}`**\n{} Alasan: `{}`**"
@@ -360,7 +360,7 @@ lck_24: "{} **Pesan terusan channel dibuka digrup ini!**"
 lck_25: "{} **Invalid Unlock Tipe!**\n\n{} **Silahkan ketik `locktypes` untuk melihat format lock!**"
 lck_27: "{} Dibuka **{}** dalam grup ini.**"
 lck_28: "{} **Terjadi kesalahan!**"
-lck_29: "{} **Lapor ke @kynansupport :\n\n`{}`**"
+lck_29: "{} **Lapor ke @Disney_storeDan :\n\n`{}`**"
 
 # logo
 logo_1: "{} **Gunakan format : `{}` [text]**"
@@ -388,7 +388,7 @@ paste_3: "{} **Berhasil! [Tautan Disini]({})**"
 ping_1: "**{} Pong `{}ms`**\n**{} Uptime !! `{}`**"
 
 # markdown
-mark_1: "<b>Markdown Formatting</b>\n<b>Anda dapat memformat pesan Anda menggunakan <b>tebal</b>, <i>miring</i>, <u>garis bawah</u>, <strike>coret</strike>, dan banyak lagi.</b>\n\n<code>`kata kode`</code>: Tanda kutip terbalik digunakan Buat font monospace. Ditampilkan sebagai: <code>kata kode</code>.\n\n<code>__miring__</code>: Garis bawah digunakan Buat font miring. Ditampilkan sebagai: <i>kata miring</i>.\n\n<code>**tebal**</code>: Asterisk digunakan Buat font tebal. Ditampilkan sebagai: <b>kata tebal</b>.\n\n<code>--garis bawah--</code>: Buat membuat teks <u>garis bawah</u>.\n\n<code>~~coret~~</code>: Tilda digunakan Buat strikethrough. Ditampilkan sebagai: <strike>coret</strike>.\n\n<code>||spoiler||</code>: Garis vertikal ganda digunakan Buat spoiler. Ditampilkan sebagai: <spoiler>Spoiler</spoiler>.\n\n<code>[hyperlink](contoh)</code>: Ini adalah pemformatan yang digunakan Buat hyperlink.\n\n<code>Hallo Disini ~ [Tombol Saya|https://link.com]</code>: Ini adalah pemformatan yang digunakan Buat membuat tombol.\n\nAnda juga bisa membuat tombol callback_data dengan diawal tanda <code>#</code> . Untuk lebih lanjut silahkan ke @KynanSupport untuk meminta bantuan."
+mark_1: "<b>Markdown Formatting</b>\n<b>Anda dapat memformat pesan Anda menggunakan <b>tebal</b>, <i>miring</i>, <u>garis bawah</u>, <strike>coret</strike>, dan banyak lagi.</b>\n\n<code>`kata kode`</code>: Tanda kutip terbalik digunakan Buat font monospace. Ditampilkan sebagai: <code>kata kode</code>.\n\n<code>__miring__</code>: Garis bawah digunakan Buat font miring. Ditampilkan sebagai: <i>kata miring</i>.\n\n<code>**tebal**</code>: Asterisk digunakan Buat font tebal. Ditampilkan sebagai: <b>kata tebal</b>.\n\n<code>--garis bawah--</code>: Buat membuat teks <u>garis bawah</u>.\n\n<code>~~coret~~</code>: Tilda digunakan Buat strikethrough. Ditampilkan sebagai: <strike>coret</strike>.\n\n<code>||spoiler||</code>: Garis vertikal ganda digunakan Buat spoiler. Ditampilkan sebagai: <spoiler>Spoiler</spoiler>.\n\n<code>[hyperlink](contoh)</code>: Ini adalah pemformatan yang digunakan Buat hyperlink.\n\n<code>Hallo Disini ~ [Tombol Saya|https://link.com]</code>: Ini adalah pemformatan yang digunakan Buat membuat tombol.\n\nAnda juga bisa membuat tombol callback_data dengan diawal tanda <code>#</code> . Untuk lebih lanjut silahkan ke @Disney_storeDan untuk meminta bantuan."
 mark_2: "<b>Fillings</b>\n\nAnda juga dapat menyesuaikan isi pesan Anda dengan data kontekstual. Misalnya, Anda bisa menyebut nama pengguna dalam pesan selamat datang, atau menyebutnya dalam filter!\n\n<b>Isian yang didukung:</b>\n\n<code>{first}</code>: Nama depan pengguna.\n<code>{last}</code>: Nama belakang pengguna.\n<code>{fullname}</code>: Nama lengkap pengguna.\n<code>{username}</code>: Nama pengguna pengguna. Jika mereka tidak memiliki satu, akan menyebutkan pengguna tersebut.\n<code>{mention}</code>: Menyebutkan pengguna dengan nama depan mereka.\n<code>{id}</code>: ID pengguna.\n<code>{chatname}</code>: Nama obrolan."
 mark_3: "**Untuk melihat format markdown silahkan klik tombol dibawah.**"
 
